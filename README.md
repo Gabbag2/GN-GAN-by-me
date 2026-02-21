@@ -13,4 +13,4 @@ To read and understand the implementation, please focus on the following files:
 
 For an explanation of the purpose and methodology, please refer to:
 - canva1
-- final report
+- "rapport final gabriel rochon"
