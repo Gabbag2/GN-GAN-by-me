@@ -1,16 +1,16 @@
-Ce dépôt contient mon implémentation du rapport de recherche suivant :
+This repository contains my implementation of the following research paper:
 
 Ngoc-Trung Tran, Tuan-Anh Bui, Ngai-Man Cheung
-"Improving GAN with Neighbors Embedding"
+“Improving GAN with Neighbors Embedding”
 arXiv:1811.01333.
 
-Pour lire et comprendre l’implémentation, veuillez vous concentrer sur les fichiers suivants :
+To read and understand the implementation, please focus on the following files:
 
 - generate.py
 - model.py
 - train.py
 - utils.py
 
-Pour une explication du but et de la méthodologie, veuillez consulter :
+For an explanation of the purpose and methodology, please refer to:
 - canva1
-- rapport final
+- final report
